@@ -33,6 +33,13 @@ Functionality: updatable colorable circle under an mesh surface position, i.e. c
 ## 12. Entity Formations (Chargeable)
 Options: Rectangular, Circular, Dynamic
 
+## 13. Gasnebula for Space (Chargeable)
+![Gasnebula](https://user-images.githubusercontent.com/106460589/218572754-549aa7f6-b75f-46f3-bc2c-bff9aeb17985.png)
+
+## 14. Hyperjump Starfield (Chargeable)
+![Hyperjump Starfield](https://user-images.githubusercontent.com/106460589/218573289-9e4e66bc-048a-4c73-8edc-b52351dd6cb3.png)
+
+
 ## ThreeJS
 
 ### 1. InteractiveCameraControl (Chargeable)
