@@ -5,6 +5,7 @@ Free and Chargeable Tools for Web or Game Developers, especially BabylonJS or Th
 ## 1.1 Chargeable
 ## 1.1.1 Dropdown Menu
 ![Dropdown](https://user-images.githubusercontent.com/106460589/218590673-12e9abd3-b291-44aa-ac1d-29b780696177.png)
+
 Option: Text and/or Images
 
 ## 1.1.2 OrientationControl for TargetCamera
@@ -80,4 +81,5 @@ Functionality: Stick mesh onto front of camera.
 
 ## 2. SphereSurfaceMotion
 Constructor: mesh, pilot, interval, delay, chain, useButton
+
 Functionality: Moves mesh along sphere surface.
