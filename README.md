@@ -20,6 +20,8 @@ Functionality: Align camera by compass direction or by cubic surface.
 Functionality: Focus Lines and/or Rectangle/Ellipse to interact with submeshes, displayed if over mesh and pointed if over submesh
 
 ## 1.1.4 Project Image on Mesh Material
+![Image Projection](https://user-images.githubusercontent.com/106460589/218594589-a4e79ba5-27c7-480c-9917-39affd00b369.png)
+
 Method: Decal
 
 ## 1.1.5 Rectangular Selection for RTS Game
