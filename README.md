@@ -11,6 +11,7 @@ Constructor: (target, camera, scene, textureResolution, viewportScaling, meshSca
 Functionality: Align camera by compass direction or by cubic surface.
 
 ## 1.1.3 Selection Focus
+Functionality: Focus Lines and/or Rectangle/Ellipse to interact with submeshes, displayed if over mesh and pointed if over submesh
 
 ## 1.1.4 Project Image on Mesh Material
 Method: Decal
