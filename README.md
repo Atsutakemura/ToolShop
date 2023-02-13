@@ -31,7 +31,8 @@ Method: Decal
 ![Circle Ground Shader](https://user-images.githubusercontent.com/106460589/218567586-78e252fa-c026-4fbf-83e2-c457f0d60c2a.png)
 
 Class: ShaderMaterial
-Functionality: updatable colorable circle under an mesh surface position, i.e. circles for RTS entities
+
+Functionality: colorable circle beneath a dynamic mesh, i.e. circles for RTS entities
 
 ## 1.1.7 Spaceship Hyperjump
 Functionality: Intersection Evaluation before and while Fast Travel of Mesh
@@ -48,7 +49,7 @@ Options: Rectangular, Circular, Dynamic
 ## 1.1.11 Dynamic Asteroid System
 ![Asteroid System](https://user-images.githubusercontent.com/106460589/218576474-dc7729b4-e2b9-4151-abb2-ebe653395e6a.png)
 
-Class: ThinInstance
+Base: ThinInstance
 Options: Flat or Spherical
 Functionality: Add or Remove Asteroids
 
