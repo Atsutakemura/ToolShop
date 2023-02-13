@@ -16,6 +16,7 @@ Functionality: Align camera by compass direction or by cubic surface.
 
 ## 1.1.3 Selection Focus
 ![Selection Focus](https://user-images.githubusercontent.com/106460589/218589325-5b18b378-d9d8-4739-89aa-5891e0630797.png)
+
 Functionality: Focus Lines and/or Rectangle/Ellipse to interact with submeshes, displayed if over mesh and pointed if over submesh
 
 ## 1.1.4 Project Image on Mesh Material
@@ -26,6 +27,7 @@ Method: Decal
 
 ## 1.1.6 Circle Ground Shader for RTS Game
 ![Circle Ground Shader](https://user-images.githubusercontent.com/106460589/218567586-78e252fa-c026-4fbf-83e2-c457f0d60c2a.png)
+
 Class: ShaderMaterial
 Functionality: updatable colorable circle under an mesh surface position, i.e. circles for RTS entities
 
@@ -42,10 +44,11 @@ Options: Rectangular, Circular, Dynamic
 ![Hyperjump Starfield](https://user-images.githubusercontent.com/106460589/218573289-9e4e66bc-048a-4c73-8edc-b52351dd6cb3.png)
 
 ## 1.1.11 Dynamic Asteroid System
+![Asteroid System](https://user-images.githubusercontent.com/106460589/218576474-dc7729b4-e2b9-4151-abb2-ebe653395e6a.png)
+
 Class: ThinInstance
 Options: Flat or Spherical
 Functionality: Add or Remove Asteroids
-![Asteroid System](https://user-images.githubusercontent.com/106460589/218576474-dc7729b4-e2b9-4151-abb2-ebe653395e6a.png)
 
 ## 1.2 Free
 ## 1.2.1 Move Marker for RTS Game
@@ -73,13 +76,13 @@ https://playground.babylonjs.com/#U6V067#44
 
 # 2. ThreeJS
 ## 2.1 Chargeable
-## 1. InteractiveCameraControl
+## 2.1.1 InteractiveCameraControl
 Functionality: Mod for camera rotation behaviour on pointer movement.
 
-## 2. CameraMontage
+## 2.1.2 CameraMontage
 Functionality: Stick mesh onto front of camera.
 
-## 2. SphereSurfaceMotion
+## 2.1.2 SphereSurfaceMotion
 Constructor: mesh, pilot, interval, delay, chain, useButton
 
 Functionality: Moves mesh along sphere surface.
