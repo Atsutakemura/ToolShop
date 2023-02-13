@@ -50,6 +50,9 @@ Class: ThinInstance
 Options: Flat or Spherical
 Functionality: Add or Remove Asteroids
 
+# 1.1.12 Animation Deplay
+Functionality: Always allows reverse play of animation, even if paused.
+
 ## 1.2 Free
 ## 1.2.1 Move Marker for RTS Game
 https://playground.babylonjs.com/#Y4D30C#5
