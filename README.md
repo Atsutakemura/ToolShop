@@ -9,6 +9,9 @@ Language: TypeScript
 Constructor: (target, camera, scene, textureResolution, viewportScaling, meshScaling, lightDirection, showAxis)
 Functionality: Align camera by compass direction or by cubic surface.
 
+## 1.1.3 Selection Focus
+
+
 ## 5. Project Image on Mesh Material
 Method: Decal
 
@@ -54,6 +57,9 @@ https://playground.babylonjs.com/#G7PBIZ#12
 
 ## 1.2.7 Spotlight Circle
 https://playground.babylonjs.com/#0GYCK7#18
+
+## 1.2.8 Projectiles of SolidParticleSystem
+https://playground.babylonjs.com/#U6V067#44
 
 ## 2. ThreeJS
 ## 2.1 Chargeable
