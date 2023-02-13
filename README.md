@@ -46,7 +46,9 @@ Functionality: Add or Remove Asteroids
 https://playground.babylonjs.com/#Y4D30C#5
 
 ## 1.2.3 3D Selection Circle for RTS Game
-check gui folder!
+![grafik](https://user-images.githubusercontent.com/106460589/218587023-aa612dd1-a35a-438f-bbee-36a663c2059e.png)
+
+check gui folder for code!
 
 ## 1.2.4 Animated Tooltip
 https://playground.babylonjs.com/#W0MGSH#8
