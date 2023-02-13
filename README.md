@@ -46,6 +46,9 @@ check gui folder!
 ## 1.2.4 Animated Tooltip
 https://playground.babylonjs.com/#W0MGSH#8
 
+## 1.2.5 Child Meshes Collision
+https://playground.babylonjs.com/#I4G4DE#9
+
 ## 1.2.6 Health Bars
 https://playground.babylonjs.com/#G7PBIZ#12
 
