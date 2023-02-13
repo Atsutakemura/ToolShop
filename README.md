@@ -28,6 +28,12 @@ Options: Rectangular, Circular, Dynamic
 ## 14. Hyperjump Starfield
 ![Hyperjump Starfield](https://user-images.githubusercontent.com/106460589/218573289-9e4e66bc-048a-4c73-8edc-b52351dd6cb3.png)
 
+## 15. Dynamic Asteroid System
+Class: ThinInstance
+Options: Flat or Spherical
+Functionality: Add or Remove Asteroids
+![Asteroid System](https://user-images.githubusercontent.com/106460589/218576474-dc7729b4-e2b9-4151-abb2-ebe653395e6a.png)
+
 ## 1.2 Free
 ## 1.2.1 Move Marker for RTS Game
 https://playground.babylonjs.com/#Y4D30C#5
