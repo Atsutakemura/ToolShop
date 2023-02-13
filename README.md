@@ -74,7 +74,7 @@ https://playground.babylonjs.com/#U6V067#44
 # 2. ThreeJS
 ## 2.1 Chargeable
 ## 1. InteractiveCameraControl
-Functionality: Rotates camera by mouse movement.
+Functionality: Mod for camera rotation behaviour on pointer movement.
 
 ## 2. CameraMontage
 Functionality: Stick mesh onto front of camera.
