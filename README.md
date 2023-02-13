@@ -17,7 +17,7 @@ check gui folder!
 ## 4. Animated Tooltip (Free)
 https://playground.babylonjs.com/#W0MGSH#8
 
-## 5. Project Image on Mesh Material
+## 5. Project Image on Mesh Material (Chargeable)
 Method: Decal
 
 ## 7. Spotlight Circle (Free)
