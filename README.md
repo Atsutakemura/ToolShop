@@ -24,6 +24,7 @@ Class: ShaderMaterial
 Functionality: updatable colorable circle under an mesh surface position, i.e. circles for RTS entities
 
 ## 1.1.7 Spaceship Hyperjump
+Functionality: Intersection Evaluation before and while Fast Travel of Mesh
 
 ## 1.1.8 Entity Formations
 Options: Rectangular, Circular, Dynamic
