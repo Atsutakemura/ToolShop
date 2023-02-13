@@ -14,6 +14,9 @@ Functionality: Align camera by compass direction or by cubic surface.
 ## 3. 3D Selection Circle for RTS Game (Free)
 check gui folder!
 
+## 4. Animated Tooltip (Free)
+https://playground.babylonjs.com/#W0MGSH#8
+
 ## 5. Project Image on Mesh Material
 Method: Decal
 
