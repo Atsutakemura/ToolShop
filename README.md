@@ -19,6 +19,8 @@ Method: Decal
 Class: ShaderMaterial
 Functionality: updatable colorable circle under an mesh surface position, i.e. circles for RTS entities
 
+## 11. Spaceship Hyperjump
+
 ## 12. Entity Formations
 Options: Rectangular, Circular, Dynamic
 
